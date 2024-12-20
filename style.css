@@ -1,0 +1,38 @@
+.buton1{
+    border: 1px solid white;
+    color: white;
+}
+
+.buton1:hover{
+    background-color: white;
+    color: black;
+}
+
+.mainblog{
+    background-color: #f0f3f8
+}
+
+span{
+    color: blue;
+}
+
+.bluebutton{
+    border: 1px solid white;
+}
+
+.bluebutton:hover{
+    background-color: white;
+    color: black;
+}
+
+a{
+    color: white;
+}
+
+@media (max-width: 576px) { 
+    .buton1,.button0{
+        width: 100%;
+        margin-top: 10px;
+    }
+ }
+
